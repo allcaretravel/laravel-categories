@@ -71,11 +71,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
-    "config": {
-        "sort-packages": true,
-        "preferred-install": "dist",
-        "optimize-autoloader": true
-    },
     "extra": {
         "laravel": {
             "providers": [
