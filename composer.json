@@ -52,8 +52,7 @@
     },
     "require-dev": {
         "illuminate/container": "^8.0",
-        "phpunit/phpunit": "^9.0.0",
-        "codedungeon/phpunit-result-printer": "^0.29.3"
+        "phpunit/phpunit": "^9.0.0"
     },
     "autoload": {
         "classmap": [
