@@ -46,7 +46,7 @@
         "illuminate/database": "^8.0",
         "illuminate/support": "^8.0",
         "kalnoy/nestedset": "^5.0",
-        "rinvex/laravel-support": "^4.3",
+        "rinvex/laravel-support": "dev-master as 4.3.1",
         "spatie/laravel-sluggable": "^2.2.0",
         "spatie/laravel-translatable": "^4.2.0"
     },
@@ -84,5 +84,11 @@
         },
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/allcaretravel/laravel-support.git"
+        }
+    ]
 }
