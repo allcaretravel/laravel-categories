@@ -44,9 +44,7 @@
         "php": "^7.4.0",
         "illuminate/console": "^8.0",
         "illuminate/database": "^8.0",
-        "illuminate/support": "^8.0",
-        "kalnoy/nestedset": "^5.0",
-        "rinvex/laravel-support": "dev-master as 4.3.1"
+        "illuminate/support": "^8.0"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.27.0",
