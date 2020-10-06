@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/laravel-categories",
+    "name": "allcaretravel/laravel-categories",
     "description": "Rinvex Categories is a polymorphic Laravel package, for category management. You can categorize any eloquent model with ease, and utilize the power of Nested Sets, and the awesomeness of Sluggable, and Translatable models out of the box.",
     "type": "library",
     "keywords": [
@@ -46,9 +46,9 @@
         "illuminate/database": "^8.0",
         "illuminate/support": "^8.0",
         "kalnoy/nestedset": "^5.0",
-        "rinvex/laravel-support": "dev-master",
         "spatie/laravel-sluggable": "^2.5",
-        "spatie/laravel-translatable": "^4.5"
+        "spatie/laravel-translatable": "^4.5",
+        "allcaretravel/laravel-support": "^5.0"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.27.0",
@@ -79,11 +79,5 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/allcaretravel/laravel-support.git"
-        }
-    ]
+    "prefer-stable": true
 }
