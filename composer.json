@@ -45,7 +45,7 @@
         "illuminate/console": "^8.0",
         "illuminate/database": "^8.0",
         "illuminate/support": "^8.0",
-        "rinvex/laravel-support": "dev-master as 4.3.1",
+        "kalnoy/nestedset": "^5.0",
         "spatie/laravel-sluggable": "^2.5",
         "spatie/laravel-translatable": "^4.5"
     },
